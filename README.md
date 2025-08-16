@@ -3,8 +3,7 @@
 My personal portfolio built with **React + Vite + Tailwind CSS**.  
 Here you can find my projects, experience, and ways to get in touch with me.  
 
-🔗 **Live demo**: [Portfolio on Vercel](https://your-vercel-link.vercel.app)  
-🔗 **GitHub Repository**: [Portfolio](https://github.com/Vnill125/Portfolio)
+🚀 **Live demo**: [Portfolio on Vercel](https://your-vercel-link.vercel.app)  
 
 ---
 
