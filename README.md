@@ -19,8 +19,8 @@ Here you can find my projects, experience, and ways to get in touch with me.
 ---
 
 ## 📸 Preview
+![Animation](https://github.com/user-attachments/assets/bf857ec6-5919-46c1-8acb-58338539c783)
 
-![Portfolio Screenshot](./images/screenshot.png)  
 
 ---
 
