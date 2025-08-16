@@ -1,12 +1,58 @@
-# React + Vite
+# 🌐 Portfolio – Vnill125
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My personal portfolio built with **React + Vite + Tailwind CSS**.  
+Here you can find my projects, experience, and ways to get in touch with me.  
 
-Currently, two official plugins are available:
+🔗 **Live demo**: [Portfolio on Vercel](https://your-vercel-link.vercel.app)  
+🔗 **GitHub Repository**: [Portfolio](https://github.com/Vnill125/Portfolio)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React  
+- ⚡ Vite  
+- 🎨 Tailwind CSS  
+- 🛠️ ESLint, PostCSS  
+- ☁️ Hosting: Vercel  
+
+---
+
+## 📸 Preview
+
+![Portfolio Screenshot](./images/screenshot.png)  
+*(Replace with a real screenshot of your project once you add an image to the repo)*
+
+---
+
+## 🛠️ Getting Started
+
+If you want to run the project locally:
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/Vnill125/Portfolio.git
+
+# 2. Navigate into the project folder
+cd Portfolio
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+📬 Contact
+
+GitHub: @Vnill125
+
+LinkedIn: (add your link here if you have one)
+
+Email: (add your contact email here)
+
+⭐ If you like this project, consider giving it a star on GitHub!
+
+---
+
+⚡ Once you deploy it on **Vercel**, just update the `Live demo` link.  
+👉 Do you want me to also write a **step-by-step guide for deploying your repo to Vercel** so you can share it live?
