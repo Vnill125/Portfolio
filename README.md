@@ -7,7 +7,7 @@ Here you can find my projects, experience, and ways to get in touch with me.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 - ⚛️ React  
 - ⚡ Vite  
@@ -23,7 +23,7 @@ Here you can find my projects, experience, and ways to get in touch with me.
 
 ---
 
-## 🛠️ Getting Started
+## ⚡ Getting Started
 
 If you want to run the project locally:
 
