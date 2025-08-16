@@ -3,12 +3,11 @@
 My personal portfolio built with **React + Vite + Tailwind CSS**.  
 Here you can find my projects, experience, and ways to get in touch with me.  
 
-🔗 **Live demo**: [Portfolio on Vercel](https://your-vercel-link.vercel.app)  
-🔗 **GitHub Repository**: [Portfolio](https://github.com/Vnill125/Portfolio)
+🚀 **Live demo**: [Portfolio on Vercel](https://your-vercel-link.vercel.app)  
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 - ⚛️ React  
 - ⚡ Vite  
@@ -19,40 +18,41 @@ Here you can find my projects, experience, and ways to get in touch with me.
 ---
 
 ## 📸 Preview
+![Animation1](https://github.com/user-attachments/assets/cf42fe60-f559-4037-8d0d-710805669850)
 
-![Portfolio Screenshot](./images/screenshot.png)  
-*(Replace with a real screenshot of your project once you add an image to the repo)*
 
 ---
 
-## 🛠️ Getting Started
+## ⚡ Getting Started
 
 If you want to run the project locally:
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/Vnill125/Portfolio.git
 
+# 1. Clone the repo
+```bash
+git clone https://github.com/Vnill125/Portfolio.git
+```
 # 2. Navigate into the project folder
+```bash
 cd Portfolio
+```
 
 # 3. Install dependencies
+```bash
 npm install
+```
 
 # 4. Start the development server
+```bash
 npm run dev
+```
 
 📬 Contact
 
 GitHub: @Vnill125
 
-LinkedIn: (add your link here if you have one)
-
-Email: (add your contact email here)
+Email: kris125132@gmail.com
 
 ⭐ If you like this project, consider giving it a star on GitHub!
 
 ---
-
-⚡ Once you deploy it on **Vercel**, just update the `Live demo` link.  
-👉 Do you want me to also write a **step-by-step guide for deploying your repo to Vercel** so you can share it live?
