@@ -19,7 +19,7 @@ Here you can find my projects, experience, and ways to get in touch with me.
 ---
 
 ## 📸 Preview
-![Animation](https://github.com/user-attachments/assets/bf857ec6-5919-46c1-8acb-58338539c783)
+![Animation1](https://github.com/user-attachments/assets/cf42fe60-f559-4037-8d0d-710805669850)
 
 
 ---
