@@ -21,7 +21,6 @@ Here you can find my projects, experience, and ways to get in touch with me.
 ## 📸 Preview
 
 ![Portfolio Screenshot](./images/screenshot.png)  
-*(Replace with a real screenshot of your project once you add an image to the repo)*
 
 ---
 
@@ -29,18 +28,25 @@ Here you can find my projects, experience, and ways to get in touch with me.
 
 If you want to run the project locally:
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/Vnill125/Portfolio.git
 
+# 1. Clone the repo
+```bash
+git clone https://github.com/Vnill125/Portfolio.git
+```
 # 2. Navigate into the project folder
+```bash
 cd Portfolio
+```
 
 # 3. Install dependencies
+```bash
 npm install
+```
 
 # 4. Start the development server
+```bash
 npm run dev
+```
 
 📬 Contact
 
