@@ -52,13 +52,8 @@ npm run dev
 
 GitHub: @Vnill125
 
-LinkedIn: (add your link here if you have one)
-
-Email: (add your contact email here)
+Email: kris125132@gmail.com
 
 ⭐ If you like this project, consider giving it a star on GitHub!
 
 ---
-
-⚡ Once you deploy it on **Vercel**, just update the `Live demo` link.  
-👉 Do you want me to also write a **step-by-step guide for deploying your repo to Vercel** so you can share it live?
