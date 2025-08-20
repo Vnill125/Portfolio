@@ -43,7 +43,6 @@ export default function Hero() {
           </div>
         </motion.div>
 
-        {/* Zdjęcie */}
         <motion.div
           variants={fadeInRight}
           initial="hidden"
