@@ -7,7 +7,6 @@ export default function Hero() {
     <section id="top" className="min-h-[70vh] flex items-center bg-gradient-to-b from-white to-gray-50 dark:from-gray-900 dark:to-gray-800">
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-center gap-12">
         
-        {/* Tekst */}
         <motion.div
           variants={fadeInLeft}
           initial="hidden"
