@@ -8,7 +8,6 @@ export default function About() {
   return (
     <section id="about" className="py-20 bg-gray-50 dark:bg-gray-900 scroll-mt-24">
       <div className="container mx-auto grid md:grid-cols-2 gap-12 items-center">
-        {/* Tekst */}
         <motion.div
           variants={fadeInLeft}
           initial="hidden"
@@ -42,7 +41,6 @@ export default function About() {
           </div>
         </motion.div>
 
-        {/* Zdjęcie */}
         <motion.div
           variants={fadeInRight}
           initial="hidden"
