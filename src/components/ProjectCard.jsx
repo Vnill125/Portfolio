@@ -23,7 +23,6 @@ export default function ProjectCard({ p }) {
           loading="lazy"
         />
 
-        {/* Overlay na hover */}
         <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex flex-col justify-center items-center gap-3 text-white">
           {p.live && (
             <a
@@ -46,7 +45,6 @@ export default function ProjectCard({ p }) {
         </div>
       </div>
 
-      {/* Opis */}
       <div className="p-4">
         <h3 className="font-semibold text-lg mb-2 text-gray-900 dark:text-white">
           {p.title}
