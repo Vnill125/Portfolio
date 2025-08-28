@@ -14,7 +14,6 @@ export default function ProjectCard({ p }) {
       transition={{ duration: 0.3, ease: "easeOut" }}
       className="relative bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden group"
     >
-      {/* Obrazek z efektem */}
       <div className="relative">
         <img
           src={p.img}
