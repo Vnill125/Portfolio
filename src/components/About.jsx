@@ -3,7 +3,7 @@ import { FaReact, FaJsSquare } from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
 import { motion } from "framer-motion";
 import { fadeInLeft, fadeInRight } from "../utils/motionVariants";
-
+     
 export default function About() {
   return (
     <section id="about" className="py-20 bg-gray-50 dark:bg-gray-900 scroll-mt-24">
