@@ -4,7 +4,7 @@ My personal portfolio built with **React + Vite + Tailwind CSS**.
 Here you can find my projects, experience, and ways to get in touch with me.  
 
 🚀 **Live demo**: https://portfolio-b7dc.vercel.app/
-
+  
 ---
 
 ## 🛠 Tech Stack
