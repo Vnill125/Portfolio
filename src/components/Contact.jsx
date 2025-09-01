@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { fadeInUp, scaleIn } from "../utils/motionVariants";
-
+ 
 export default function Contact() {
   return (
     <section id="contact" className="py-16 scroll-mt-24 bg-gray-50 dark:bg-gray-900">
