@@ -33,7 +33,7 @@ const projects = [
     tech: ["🐍 Python", "🌐 Django", "🎨 Tailwind CSS"],
     img: "/images/marketplace.png",
     live: "",
-    repo: "https://github.com/Vnill125/Ecom"
+    repo: "https://github.com/Vnill125/Ecom."
   },
   {
     id: "car-rental",
